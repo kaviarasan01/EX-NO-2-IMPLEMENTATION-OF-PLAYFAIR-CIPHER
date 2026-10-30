@@ -184,7 +184,7 @@ void encryptByPlayfairCipher(char str[], char key[]) {
 int main() {
     char str[SIZE], key[SIZE];
 
-    strcpy(key, "Monarchy");
+    strcpy(key, "KAVIARASAN");
     printf("Key text: %s\n", key);
 
     strcpy(str, "instruments");
@@ -199,5 +199,6 @@ int main() {
 
 Output:
 
-<img width="1672" height="990" alt="image" src="https://github.com/user-attachments/assets/aac22ffd-8dc2-4865-831f-651c3ac7d503" />
+<img width="291" height="187" alt="image" src="https://github.com/user-attachments/assets/ed177340-1643-4472-b282-4bad625e6cf7" />
+
 
